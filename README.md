@@ -1,9 +1,10 @@
-# 📋 From Code to Clarity: Documentation Standards for Medical Imaging Informatics
+# 📋 # 📋 Clear Docs for Complex Clinical Systems
+## A Style Guide for DICOM, HL7, FHIR, and PACS Teams
 > Writing standards, terminology guidelines, and documentation templates for software teams building medical imaging and informatics products.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![Domain: Medical Imaging](https://img.shields.io/badge/domain-medical%20imaging-blue.svg)
+![Domain: DICOM · HL7 · FHIR · PACS](https://img.shields.io/badge/domain-DICOM%20%C2%B7%20HL7%20%C2%B7%20FHIR%20%C2%B7%20PACS-blue.svg)
 
 ---
 
