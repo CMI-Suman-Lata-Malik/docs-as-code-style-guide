@@ -34,6 +34,7 @@ This guide fills that gap. It covers:
 ---
 
 ## 📁 Repository Structure
+```
 docs-as-code-style-guide/
 │
 ├── style-guide/
@@ -56,6 +57,7 @@ docs-as-code-style-guide/
 │   └── bad-vs-good-rewrite.md        # Side-by-side rewrites with explanation
 │
 └── CONTRIBUTING.md                   # How to contribute to this guide
+```
 
 ## 🚀 How to Use This Guide
 
