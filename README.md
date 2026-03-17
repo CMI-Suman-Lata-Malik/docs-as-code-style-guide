@@ -1,5 +1,4 @@
-# 📋 Docs-as-Code Style Guide for Medical Imaging Informatics
-
+# 📋 From Code to Clarity: Documentation Standards for Medical Imaging Informatics
 > Writing standards, terminology guidelines, and documentation templates for software teams building medical imaging and informatics products.
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
