@@ -19,7 +19,7 @@ This style guide is built for:
 
 ---
 
-## 🚫 The Problem This Solves
+## The Problem This Solves
 
 General style guides are excellent — but they were not built for the unique language, workflows, and compliance context of medical imaging informatics software.
 
@@ -33,7 +33,7 @@ This guide fills that gap. It covers:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 docs-as-code-style-guide/
 │
@@ -59,7 +59,7 @@ docs-as-code-style-guide/
 └── CONTRIBUTING.md                   # How to contribute to this guide
 ```
 
-## 🚀 How to Use This Guide
+## How to Use This Guide
 
 ### Option 1 — Browse on GitHub
 Navigate the folders above and read the guides directly in your browser.
@@ -76,7 +76,7 @@ starting point for your own documentation.
 
 ---
 
-## 📖 Style Guide Sections
+## Style Guide Sections
 
 | Section | Description |
 |---|---|
@@ -89,7 +89,7 @@ starting point for your own documentation.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome from technical writers, clinicians, engineers, and anyone who works with medical imaging software documentation.
 
@@ -97,7 +97,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 
 ---
 
-## 👩‍💼 About the Author
+## About the Author
 
 **Suman Lata Malik** — Senior Technical Writer, Canon Medical Informatics  
 Specializing in enterprise medical imaging software (DICOM, HL7/FHIR, PACS, AI radiology) and Saas documentation. Expert in information design, findability, and content strategy.
@@ -107,7 +107,7 @@ Specializing in enterprise medical imaging software (DICOM, HL7/FHIR, PACS, AI r
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — free to use, adapt, and share  
 with attribution. See [LICENSE](LICENSE) for details.
