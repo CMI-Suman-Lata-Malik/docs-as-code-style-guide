@@ -1,4 +1,4 @@
-# 📋 # 📋 Clear Docs for Complex Clinical Systems
+# Clear Docs for Complex Clinical Systems
 ## A Style Guide for DICOM, HL7, FHIR, and PACS Teams
 > Writing standards, terminology guidelines, and documentation templates for software teams building medical imaging and informatics products.
 
