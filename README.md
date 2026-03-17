@@ -102,7 +102,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
 **Suman Lata Malik** — Senior Technical Writer, Canon Medical Informatics  
 Specializing in enterprise medical imaging software (DICOM, HL7/FHIR, PACS, AI radiology) and Saas documentation. Expert in information design, findability, and content strategy.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/suman-lata-malik) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/sumanlatamalik/) | 
 🐙 [GitHub](https://github.com/CMI-Suman-Lata-Malik)
 
 ---
