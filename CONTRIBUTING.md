@@ -1,8 +1,6 @@
 # Contributing to the Docs-as-Code Style Guide
 
-Thank you for your interest in contributing! This guide is built by and for  
-the medical imaging informatics community — every improvement makes it more  
-valuable for everyone.
+Thank you for your interest in contributing! This guide is built by and for the medical imaging informatics community — every improvement makes it more valuable for everyone.
 
 ---
 
