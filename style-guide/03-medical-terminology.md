@@ -126,8 +126,7 @@ When documentation mixes these without discipline, it creates:
 
 ## Terms That Mean Different Things in Different Contexts
 
-These terms are frequently misused because they have different meanings  
-in clinical, engineering, and standards contexts. Always clarify context.
+These terms are frequently misused because they have different meanings in clinical, engineering, and standards contexts. Always clarify context.
 
 | Term | Clinical Meaning | Engineering Meaning | Standards Meaning |
 |---|---|---|---|
