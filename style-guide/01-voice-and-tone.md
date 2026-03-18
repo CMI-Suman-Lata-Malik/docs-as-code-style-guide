@@ -23,10 +23,10 @@ Example:
 Medical imaging software operates in clinical environments. Vague language creates risk. Be exact.
 
 **Avoid:**
-The study may take some time to load depending on various factors.
+> The study may take some time to load depending on various factors.
 
 **Use:**
-Load time depends on study size, network speed, and the number of series. A 1 GB study typically loads in under 10 seconds on a 1 Gbps network.
+> Load time depends on study size, network speed, and the number of series. A 1 GB study typically loads in under 10 seconds on a 1 Gbps network.
 
 ---
 
@@ -53,9 +53,7 @@ Write as if the software is in front of the user right now.
 ---
 
 ### 5. Human tone, not robotic tone
-Clinical software documentation is often written in cold, mechanical language.  
-This creates distance. Write as a knowledgeable colleague explaining something  
-clearly — not as a legal disclaimer.
+Clinical software documentation is often written in cold, mechanical language. This creates distance. Write as a knowledgeable colleague explaining something clearly — not as a legal disclaimer.
 
 **Avoid:**
 > Users must ensure that all required fields have been populated prior to  
@@ -83,8 +81,7 @@ Different documents call for different tones. Use this table as a reference:
 
 ## Writing for a Global Audience
 
-Medical imaging software is used worldwide. Many readers are not native  
-English speakers. Write with this in mind:
+Medical imaging software is used worldwide. Many readers are not native English speakers. Write with this in mind:
 
 - Use short sentences — aim for 20 words or fewer per sentence
 - Avoid idioms: "out of the box", "hit the ground running", "ballpark figure"
@@ -98,8 +95,7 @@ English speakers. Write with this in mind:
 
 ## Terminology Consistency
 
-Always use the same term for the same concept throughout a document.  
-Switching terms confuses readers and creates translation problems.
+Always use the same term for the same concept throughout a document. Switching terms confuses readers and creates translation problems.
 
 | Use This | Not This |
 |---|---|
